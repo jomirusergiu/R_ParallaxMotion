@@ -26,9 +26,9 @@ static void * const ParallaxMotionEffectGroupKey = (void*)&ParallaxMotionEffectG
 
 @implementation UIView (R_ParallaxMotion)
 
--(void)setParallaxIntensity:(CGFloat)parallaxDepth
+-(void)setParallaxValue:(CGFloat)parallaxDepth
 {
-    if (self.parallaxIntensity == parallaxDepth)
+    if (self.parallaxValue == parallaxDepth)
         return;
     
     objc_setAssociatedObject(self, ParallaxDepthKey, @(parallaxDepth), OBJC_ASSOCIATION_RETAIN_NONATOMIC);
@@ -69,7 +69,7 @@ static void * const ParallaxMotionEffectGroupKey = (void*)&ParallaxMotionEffectG
     parallaxGroup.motionEffects = motionEffects;
 }
 
--(CGFloat)parallaxIntensity
+-(CGFloat)parallaxValue
 {
     NSNumber * val = objc_getAssociatedObject(self, ParallaxDepthKey);
     if (!val)

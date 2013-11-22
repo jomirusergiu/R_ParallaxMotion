@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>40D01B56-70A2-46D0-8A3B-18F1DEA65EED</string>
+	<key>IDESourceControlProjectName</key>
+	<string>R_Parallax</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>12340E79-ACCE-4463-9D85-1E2A338F2AA5</key>
+		<string>https://github.com/RocKK-MD/R_ParallaxMotion.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo/R_Parallax.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>12340E79-ACCE-4463-9D85-1E2A338F2AA5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RocKK-MD/R_ParallaxMotion.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>12340E79-ACCE-4463-9D85-1E2A338F2AA5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>12340E79-ACCE-4463-9D85-1E2A338F2AA5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>R_ParallaxMotion</string>
+		</dict>
+	</array>
+</dict>
+</plist>

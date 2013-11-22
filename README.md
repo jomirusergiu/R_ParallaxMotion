@@ -6,7 +6,7 @@ R_ParallaxMotion is a small UIView category for parallax effect with `UIMotionEf
 Usage
 -------------
 ```Objective-C
- view.parallaxIntensity = 50;
+ view.parallaxValue = 50;
 ```
 You can set motion amplitude by change the value.
 Positive values make the view appear to extend from the screen. Negative values

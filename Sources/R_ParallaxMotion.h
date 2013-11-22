@@ -21,6 +21,6 @@
 #import <UIKit/UIKit.h>
 
 @interface UIView (R_ParallaxMotion)
-@property (nonatomic) CGFloat parallaxIntensity;
+@property (nonatomic) CGFloat parallaxValue;
 
 @end
