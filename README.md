@@ -1,14 +1,14 @@
 R_ParallaxMotion
 =================
 
-R_ParallaxMotion is a small UIView category for parallax effect with `UIMotionEffect`.
+R_ParallaxMotion is a small UIView category for parallax effects based on `UIMotionEffect`.
 
 Usage
 -------------
 ```Objective-C
  view.parallaxValue = 50;
 ```
-You can set motion amplitude by change the value.
+You can set motion amplitude by changing the value.
 Positive values make the view appear to extend from the screen. Negative values
 make the view appear to recess behind the screen.
 
